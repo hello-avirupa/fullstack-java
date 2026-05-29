@@ -1,4 +1,4 @@
-
+package src.basics;
 import java.util.*;
 
 public class TernaryOperator {
